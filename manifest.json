@@ -2,7 +2,7 @@
   "name": "Controle Financeiro",
   "short_name": "Financeiro",
   "description": "Controle financeiro mensal e anual",
-  "start_url": "/financeiro/index.html",
+  "start_url": "/financeiro/",
   "scope": "/financeiro/",
   "display": "standalone",
   "background_color": "#0f1117",
